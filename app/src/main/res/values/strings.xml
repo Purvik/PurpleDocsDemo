@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PurpleDocsDemo</string>
+    <string name="btnCallLabel">Call</string>
+    <string name="btnMsgLabel">Msg</string>
+</resources>
